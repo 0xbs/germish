@@ -47,7 +47,7 @@ Changes to the original US keyboard / Änderungen zum original US Keyboard:
 ## FAQ
 
 ### Why Germish?
-Germish = Ger<s>man</s> + <s>Engl</s>ish.
+Germish = Germ<s>an</s> + <s>Engl</s>ish.
 
 ### Why do I see a bar or a keyboard icon instead of the G icon?
 If you see just a bar or an ugly keyboard icon, try to reboot first, 
